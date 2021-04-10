@@ -1,0 +1,12 @@
+{
+  "power0": true,
+  "power1": true,
+  "power2": true,
+  "power3": true,
+  "power4": true,
+  "power5": true,
+  "frecuencia": 1,
+  "velocidad": 1,
+  "tiempo": 10,
+  "shipType": 2
+}
